@@ -63,13 +63,6 @@ To make the website publicly accessible, the following policy was applied:
 
 
 
-## 👨‍💻 Author
 
-**Dhanush R**  
-🚀 AWS & DevOps Enthusiast  
 
-📧 r.dhanushravii1202@gmail.com  
-📞 +91 9080414681  
 
-🔗 LinkedIn: https://www.linkedin.com/in/dhanush-ravi-934784232/  
-💻 GitHub: https://github.com/DhanushRavi12
